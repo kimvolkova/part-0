@@ -1,0 +1,7 @@
+1. The user enters to the page 
+2. Scrolls down until see the form 
+3. Types the note then clicks the submit button
+4. The browser sends the user input to the sever
+5. This action creates 5 HTTP requests, being the important one a POST request
+6. The server sends a redirect where the browser do a GET request to the location of the notes
+6. The page reloads adding the new note

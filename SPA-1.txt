@@ -1,0 +1,2 @@
+1. The user can go to the simple page app through the link on the tutorial page or typing "/spa" in the main link "https://studies.cs.helsinki.fi/exampleapp".
+2. In the page everything looks the same so the user can not see the difference.
