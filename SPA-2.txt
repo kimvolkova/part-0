@@ -1,6 +1,0 @@
-1. The user enters to the page 
-2. Scrolls down until see the form 
-3. Types the note then clicks the submit button
-4. The browser sends just one request to the server and it is the new note as JSON data
-5. The Javascript code adds the new note and also prevents the page to reload
-6. The new note gets introduced
